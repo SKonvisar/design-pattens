@@ -1,3 +1,5 @@
-import { SingletoneDemonstration } from "./Creational";
+import { SingletoneDemonstration, BuilderDemo } from "./Creational";
 
 SingletoneDemonstration();
+
+BuilderDemo();
